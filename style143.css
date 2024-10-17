@@ -1,0 +1,66 @@
+body{
+
+	background-color: #fffae6;
+}
+
+.container1{
+
+	width: 100;
+	text-align: center;
+}
+
+.container1 h1 {
+    background-color: #fae698;
+    display: block;
+    padding: 5px;
+    margin: 0 auto;
+    color: black;
+    font-family: Bodoni MT;
+    text-align: center;
+}
+
+
+input, textarea{
+	background-color: #fae698;
+	color: black; 
+	font-family: bodoni MT;
+}
+
+.image-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.container3, .container4{
+
+	margin: auto;
+	width: 308px;
+	padding: 15px;
+	background-color: #fae698;
+}
+
+.container3 input, .container4 input,
+.container3 select, .container4 select {
+    margin-left: 105px;
+    background-color: #fffae6;
+	}
+
+.container3 img, .container4 img{
+		margin-right: 5px;
+		margin-left: 5px;
+}
+
+.container3 p, .container4 p {
+    background-color: #fffae6;
+    display: block;
+    padding: 5px;
+    margin: 0 auto;
+    text-align: center;
+    color: black;
+    font-family: Bodoni MT;
+}
+
+.container5{
+    text-align: center;
+}
